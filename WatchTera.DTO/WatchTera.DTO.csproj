@@ -1,0 +1,35 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\WatchTera.Entity\WatchTera.Entity.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="DTOs\AdminLogDtos\" />
+    <Folder Include="DTOs\AdminRoleDtos\" />
+    <Folder Include="DTOs\BannerDtos\" />
+    <Folder Include="DTOs\CartDtos\" />
+    <Folder Include="DTOs\CartItemDtos\" />
+    <Folder Include="DTOs\CategoryDtos\" />
+    <Folder Include="DTOs\ContactDtos\" />
+    <Folder Include="DTOs\MessageDtos\" />
+    <Folder Include="DTOs\WishListItemDtos\" />
+    <Folder Include="DTOs\WishListDtos\" />
+    <Folder Include="DTOs\UserDtos\" />
+    <Folder Include="DTOs\TestimonialDtos\" />
+    <Folder Include="DTOs\SubscriberDtos\" />
+    <Folder Include="DTOs\SocialMediaDtos\" />
+    <Folder Include="DTOs\ReviewDtos\" />
+    <Folder Include="DTOs\ProductDtos\" />
+    <Folder Include="DTOs\PaymentDtos\" />
+    <Folder Include="DTOs\OrderItemDtos\" />
+    <Folder Include="DTOs\OrderDtos\" />
+  </ItemGroup>
+
+</Project>

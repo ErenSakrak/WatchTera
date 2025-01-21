@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WatchTera.WebAPI", "WatchTera.WebAPI\WatchTera.WebAPI.csproj", "{4B869019-06A1-4868-85A1-23B7311751A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WatchTera.Entity", "WatchTera.Entity\WatchTera.Entity.csproj", "{5ED56FE8-2C31-4281-BEED-D713A2608795}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WatchTera.DataAccess", "WatchTera.DataAccess\WatchTera.DataAccess.csproj", "{AF3E6976-0E04-4B6B-9017-D7F0B40A8A96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WatchTera.Business", "WatchTera.Business\WatchTera.Business.csproj", "{0C21B564-C553-446E-A4CC-EEAB3D864E14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WatchTera.DTO", "WatchTera.DTO\WatchTera.DTO.csproj", "{B076998B-ED9B-4FBC-BBBA-A98EA6F88C36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WatchTera.WebUI", "WatchTera.WebUI\WatchTera.WebUI.csproj", "{466A2DC2-7F8B-4554-92CD-99D8ACA855ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B869019-06A1-4868-85A1-23B7311751A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B869019-06A1-4868-85A1-23B7311751A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B869019-06A1-4868-85A1-23B7311751A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B869019-06A1-4868-85A1-23B7311751A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5ED56FE8-2C31-4281-BEED-D713A2608795}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ED56FE8-2C31-4281-BEED-D713A2608795}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ED56FE8-2C31-4281-BEED-D713A2608795}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ED56FE8-2C31-4281-BEED-D713A2608795}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF3E6976-0E04-4B6B-9017-D7F0B40A8A96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF3E6976-0E04-4B6B-9017-D7F0B40A8A96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF3E6976-0E04-4B6B-9017-D7F0B40A8A96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF3E6976-0E04-4B6B-9017-D7F0B40A8A96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C21B564-C553-446E-A4CC-EEAB3D864E14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C21B564-C553-446E-A4CC-EEAB3D864E14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C21B564-C553-446E-A4CC-EEAB3D864E14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C21B564-C553-446E-A4CC-EEAB3D864E14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B076998B-ED9B-4FBC-BBBA-A98EA6F88C36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B076998B-ED9B-4FBC-BBBA-A98EA6F88C36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B076998B-ED9B-4FBC-BBBA-A98EA6F88C36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B076998B-ED9B-4FBC-BBBA-A98EA6F88C36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{466A2DC2-7F8B-4554-92CD-99D8ACA855ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{466A2DC2-7F8B-4554-92CD-99D8ACA855ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{466A2DC2-7F8B-4554-92CD-99D8ACA855ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{466A2DC2-7F8B-4554-92CD-99D8ACA855ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
