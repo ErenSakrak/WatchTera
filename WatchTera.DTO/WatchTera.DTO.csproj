@@ -13,7 +13,6 @@
   <ItemGroup>
     <Folder Include="DTOs\AdminLogDtos\" />
     <Folder Include="DTOs\AdminRoleDtos\" />
-    <Folder Include="DTOs\BannerDtos\" />
     <Folder Include="DTOs\CartDtos\" />
     <Folder Include="DTOs\CartItemDtos\" />
     <Folder Include="DTOs\CategoryDtos\" />

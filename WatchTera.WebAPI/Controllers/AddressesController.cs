@@ -2,7 +2,6 @@
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using WatchTera.Business.Abstract;
-using WatchTera.DTO.DTOs.AboutDtos;
 using WatchTera.DTO.DTOs.AddressDtos;
 using WatchTera.Entity.Entities;
 
